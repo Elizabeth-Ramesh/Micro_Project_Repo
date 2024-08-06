@@ -1,0 +1,28 @@
+{
+  "employeeDetails": [
+    {
+      "id": "81",
+      "Name": "eliza",
+      "Email": "eliza@gmail.com",
+      "Mobile": "9823846392",
+      "Salary": "5000",
+      "Address": "tiruchengode,namakal"
+    },
+    {
+      "id": "82",
+      "Name": "elizabeth",
+      "Email": "elizabeth@gmail.com",
+      "Mobile": "9824346392",
+      "Salary": "50003",
+      "Address": "vellakoil.tirupur"
+    },
+    {
+      "id": "30",
+      "Name": "madhubala",
+      "Salary": "100000000",
+      "Email": "madhubala@gmail.com",
+      "Mobile": "8610592501",
+      "Address": "pallipalaiyam,namakkal"
+    }
+  ]
+}
